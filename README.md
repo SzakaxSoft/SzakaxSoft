@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Szakács Botond</h1>
+<h1 align="center">Hi, I'm Szakács Botond</h1>
 <h3 align="center">I'm a passionate frontend developer and a young guy who loves coding. I started programming when I was 14, and I immediately enjoyed it. I began with Python, but now I also work with Java, HTML, and CSS. I see coding more as a hobby than a job – something I truly enjoy. I'm still young, so I haven't completed any major projects yet, but don't let that fool you: I work hard until the result is the best it can be. And yes, my English might not be perfect – but I'm improving every day!</h3>
 
 <h3 align="left">Connect with me:</h3>
